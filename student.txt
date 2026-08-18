@@ -1,4 +1,0 @@
-student name: Harsika kumari
-roll number: 45
-course: BTech
-semester: 5
